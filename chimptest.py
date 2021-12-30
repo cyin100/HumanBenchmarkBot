@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time, threading
 
-DESIRED_SCORE = 30
+DESIRED_SCORE = 41 #Change to desired score, DEFAULT 41
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
@@ -14,6 +14,7 @@ class Point:
         self.i = i
         self.j = j
 
+time.sleep(2)
 points = []
 score = 4
 driver.implicitly_wait(0)
@@ -31,7 +32,6 @@ while score < DESIRED_SCORE:
     points = sorted(points, key=lambda point: point.number)
 
     for point in points:
-        print(str(point.number)+" "+str(point.i)+" "+str(point.j))
         try:
             driver.find_element_by_xpath("/html/body/div[@id='root']/div[@class='css-1gr1qbh']/div[4]/div[@class='css-12ibl39 e19owgy77']/div[@class='css-42wpoy e19owgy79']/div[@class='desktop-only']/div[@class='css-gmuwbf']/div/div[@class='css-k008qs']["+str(point.i)+"]/div[@class='css-19b5rdt']["+str(point.j)+"]").click()
         except:

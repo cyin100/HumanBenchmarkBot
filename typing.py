@@ -1,6 +1,6 @@
 from selenium import webdriver
-import time, threading
 from pynput.keyboard import Key, Controller
+import time
 
 keyboard = Controller()
 options = webdriver.ChromeOptions()
