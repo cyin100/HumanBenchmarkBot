@@ -5,6 +5,7 @@ import time
 keyboard = Controller()
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
+options.add_argument("--start-maximized")
 driver = webdriver.Chrome(options=options)
 driver.get('https://humanbenchmark.com/tests/typing')
 driver.implicitly_wait(5)

@@ -3,6 +3,7 @@ import time
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
+options.add_argument("--start-maximized")
 driver = webdriver.Chrome(options=options)
 driver.get('https://humanbenchmark.com/tests/aim')
 

@@ -1,6 +1,5 @@
 # Human Benchmark Bot
-Produces high scores on the [Human Benchmark Tests](https://humanbenchmark.com)  
-Designed for entertainment and proof of concept, forks for improvements welcome
+Produces scores above human limits on the [Human Benchmark Tests](https://humanbenchmark.com)  
 
 ### Reaction Time: 30-50 ms*  
 ![reactiontime](https://user-images.githubusercontent.com/46613498/147722939-b211eeee-f08b-4a4d-ae36-ab3f8bcbb716.gif)
@@ -37,9 +36,9 @@ Designed for entertainment and proof of concept, forks for improvements welcome
 6. speed
 
 ## Additional Notes
-Aim Trainer - requires manual click to start, wait 3-5s for best results
-Sequence Memory & Visual Memory - requires 1920 x 1080 fullscreen and mouse control
-Misc. - for all tests marked as endless, variable DESIRED_SCORE can be changed 
+Aim Trainer - requires manual click to start, wait 3-5s for best results  
+Sequence Memory & Visual Memory - requires 1920 x 1080 fullscreen and mouse control  
+Misc. - for all tests marked as endless, variable DESIRED_SCORE can be changed  
 
 
 

@@ -7,6 +7,7 @@ DESIRED_SCORE = 15 #Change to desired score, DEFAULT 15
 keyboard = Controller()
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
+options.add_argument("--start-maximized")
 driver = webdriver.Chrome(options=options)
 driver.get('https://humanbenchmark.com/tests/number-memory')
 
