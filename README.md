@@ -4,28 +4,28 @@ Designed for entertainment and proof of concept
 
 ## Features
 Reaction Time: 30-50 ms* 
-![](https://github.com/cyin100/HumanBenchmarkBot/reactiontime.gif)
+![](https://github.com/cyin100/HumanBenchmarkBot/blob/main/reactiontime.gif)
 
 Sequence Memory: Endless
-![](https://github.com/cyin100/HumanBenchmarkBot/sequencememory.gif)
+![](https://github.com/cyin100/HumanBenchmarkBot/blob/main/sequencememory.gif)
 
 Aim Trainer: 40-60 ms* 
-![](https://github.com/cyin100/HumanBenchmarkBot/aimtrainer.gif)
+![](https://github.com/cyin100/HumanBenchmarkBot/blob/main/aimtrainer.gif)
 
 Number Memory: Endless  
-![](https://github.com/cyin100/HumanBenchmarkBot/numbermemory.gif)
+![](https://github.com/cyin100/HumanBenchmarkBot/blob/main/numbermemory.gif)
 
 Verbal Memory: Endless  
-![](https://github.com/cyin100/HumanBenchmarkBot/verbalmemory.gif)
+![](https://github.com/cyin100/HumanBenchmarkBot/blob/main/verbalmemory.gif)
 
 Chimp Test: 41 (MAX)
-![](https://github.com/Ycyin100/HumanBenchmarkBot/chimptest.gif)
+![](https://github.com/Ycyin100/HumanBenchmarkBot/blob/main/chimptest.gif)
 
 Visual Memory: Endless 
-![](https://github.com/cyin100/HumanBenchmarkBot/visualmemory.gif)
+![](https://github.com/cyin100/HumanBenchmarkBot/blob/main/visualmemory.gif)
 
 Typing: 520-560 wpm*  
-![](https://github.com/cyin100/HumanBenchmarkBot/typing.gif)
+![](https://github.com/cyin100/HumanBenchmarkBot/blob/main/typing.gif)
 
 *Scores may vary depending on computer processing speed
 
