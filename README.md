@@ -16,7 +16,7 @@ Produces scores above human limits on the [Human Benchmark Tests](https://humanb
 ### Verbal Memory: Endless  
 ![verbalmemory](https://user-images.githubusercontent.com/46613498/147723034-5bd01832-4cb8-4426-8240-8c475855050a.gif)
 
-### Chimp Test: 41 (MAX)  
+### Chimp Test: Endless (MAX 41)
 ![chimptest](https://user-images.githubusercontent.com/46613498/147723036-595711fe-a7b0-44af-bc66-0bc5957a648a.gif)
 
 ### Visual Memory: Endless  

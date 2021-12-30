@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time, threading
 
-DESIRED_SCORE = 41 #Change to desired score, DEFAULT 41
+DESIRED_SCORE = 25 #Change to desired score, DEFAULT 25 // MAX is 41
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
