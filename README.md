@@ -29,17 +29,16 @@ Produces scores above human limits on the [Human Benchmark Tests](https://humanb
 
 ## Instructions
 1. Install Python 3.6 or higher 
-2. pip install pynput
-3. pip install selenium
-4. pip install pillow
-5. python FILENAME.py (FILENAME being the test you'd like to perform)
-6. speed
+2. `pip install pynput`
+3. `pip install selenium`
+4. `pip install pillow`
+5. `python FILENAME.py` (`FILENAME` being the test you'd like to perform)
+6. Enjoy!
 
 ## Additional Notes
-Aim Trainer - requires manual click to start, wait 3-5s for best results  
+Aim Trainer - requires manual click to start, wait about 3s for best results  
 Sequence Memory & Visual Memory - requires 1920 x 1080 fullscreen and mouse control  
-Misc. - for all tests marked as endless, variable DESIRED_SCORE can be changed  
-
+Misc. - for all tests marked as endless, variable DESIRED_SCORE in respective file can be changed
 
 
 
